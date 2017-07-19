@@ -1,6 +1,5 @@
-package com.baselogic.patterns.proxy;
+package com.baselogic.patterns.structural.proxy;
 
-import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 

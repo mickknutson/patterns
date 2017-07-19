@@ -1,4 +1,4 @@
-package com.baselogic.patterns.proxy;
+package com.baselogic.patterns.structural.proxy;
 
 // CANNOT CHANGE
 // Break existing API
